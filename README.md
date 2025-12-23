@@ -6,6 +6,6 @@
 - 👯 I’m looking to collaborate on building an operating system
 - 💬 Ask me about anything relevant 
 - 📫 How to reach me: My email: mobolaji.babajide@pau.edu.ng
-- 😄 Pronouns: he/huim
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I love learning new stuff
 
