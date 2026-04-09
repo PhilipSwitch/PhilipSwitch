@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning low level systems programming
 - 👯 I’m looking to collaborate on building an operating system
 - 💬 Ask me about anything relevant 
-- 📫 How to reach me: My email: mobolaji.babajide@pau.edu.ng
+- 📫 How to reach me: My email: mobolaji0babajide@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love learning new stuff
 
